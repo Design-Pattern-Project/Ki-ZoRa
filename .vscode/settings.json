@@ -1,0 +1,11 @@
+{
+	"java.project.sourcePaths": ["src"],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": {
+		"include": [
+			"lib/**/*.jar",
+			"c:\\Users\\97577\\Downloads\\OnlineShopping.jar"
+		],
+		"exclude": ["lib/Product.jar", "lib/OnlineShopping.jar"]
+	}
+}
